@@ -17,6 +17,12 @@
         "backgroundColor": "#ffffff"
       }
     },
+    "permissions": [
+      {
+        "permission": "camera",
+        "description": "Allow the app to scan QR codes for ticket check-in."
+      }
+    ],
     "web": {
       "bundler": "metro",
       "output": "static",
@@ -32,7 +38,8 @@
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
-      ]
+      ],
+      "expo-barcode-scanner"
     ],
     "experiments": {
       "typedRoutes": true
