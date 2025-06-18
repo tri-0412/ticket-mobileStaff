@@ -3,17 +3,23 @@
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
-
-1. Install dependencies
+1.Clone dự án về :
 
    ```bash
-   npm install
+git clone https://github.com/tri-0412/ticket-mobileStaff.git
+cd ticket-mobileStaff
+ ```
+
+2. Install dependencies
+
+   ```bash
+   npm install --legacy-peer-deps
    ```
 
-2. Start the app
+3. Start the app
 
    ```bash
-    npx expo start
+    npx expo start --port 3002
    ```
 
 In the output, you'll find options to open the app in a
