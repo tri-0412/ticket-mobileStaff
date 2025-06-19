@@ -6,9 +6,9 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 1. Clone dự án về :
 
    ```bash
-git clone https://github.com/tri-0412/ticket-mobileStaff.git
-cd ticket-mobileStaff
- ```
+   git clone https://github.com/tri-0412/ticket-mobileStaff.git
+   cd ticket-mobileStaff
+    ```
 
 2. Install dependencies
 
